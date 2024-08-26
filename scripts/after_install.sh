@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /var/www/html/Health-Plus
+cd /home/ubuntu/Health-Plus
 npm run build
